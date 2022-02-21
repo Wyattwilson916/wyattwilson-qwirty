@@ -1,0 +1,10 @@
+nav a:hover{
+    text-decoration: none;
+    font-family: Dosis;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+    background-color: #44B;
+    color: white;
+    box-shadow: 0 2px 5px -2px black;
+}
